@@ -1,4 +1,0 @@
-original_filename=1f59c05bbd3db05518b632f212b1aac7de1ff0b3914d6c0d587b6a68e214a287
-original_md5=f8fb3cc4dc41a6e8f8f6313263d668c2
-total_parts=94
-part_size=24023040
